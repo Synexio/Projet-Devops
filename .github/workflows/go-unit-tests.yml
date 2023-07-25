@@ -28,6 +28,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
       - name: Exec
         run: ./main.exe
 
@@ -36,6 +37,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
       - name: Test
         run: go test -v ./main.go ./api.go ./server.go ./main_test.go
 
