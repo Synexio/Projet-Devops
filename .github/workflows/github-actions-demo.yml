@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: synexio/Projet_devops:latest
+          tags: synexio/projet_devops:latest
