@@ -12,4 +12,4 @@ RUN CGO_ENABLED=0 GOOS=linux go build -o /docker-gs
 
 EXPOSE 8080
 
-CMD ["/docker-gs"]
+CMD ["sleep","3600"]
