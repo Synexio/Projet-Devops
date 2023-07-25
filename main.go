@@ -162,8 +162,8 @@ func main() {
 			// Eviter les collisions de clé primaire
 			now++
 			i += 3
-		}*/
+		}
 
-	startServer()
+	startServer()*/
 
 }
