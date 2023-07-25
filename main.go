@@ -136,33 +136,33 @@ func main() {
 	}
 
 	fmt.Println("Fichier créé !")
-
-	// Création de la table si elle n'existe pas
-	sqlStat := "CREATE TABLE IF NOT EXISTS public.pairs2 ( id SERIAL NOT NULL, altname character varying NOT NULL, base character varying, quote character varying, current_price character varying, fee_volume_currency character varying, ordermin character varying, costmin character varying, status character varying, PRIMARY KEY (id) ); ALTER TABLE IF EXISTS public.pairs OWNER to toto;"
-	_, errors = db.Exec(sqlStat)
-	if errors != nil {
-		fmt.Println(errors)
-		panic(err)
-	} else {
-		fmt.Println("Table OK")
-	}
-
-	// Enregistrement des données dans la base de données
-	now := time.Now().Unix()
-	i = 0
-	for _, value := range resultMap {
-		pairMap := value.(map[string]interface{})
-		// Insertion des données dans la base de données
-		sqlStatement := fmt.Sprintf("INSERT INTO pairs2 (id, altname, base, quote, current_price, fee_volume_currency, ordermin, costmin, status) VALUES (%d, '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')", now, pairMap["altname"], pairMap["base"], pairMap["quote"], tickers[i], pairMap["fee_volume_currency"], pairMap["ordermin"], pairMap["costmin"], pairMap["status"])
-		_, err := db.Exec(sqlStatement)
-		if err != nil {
-			fmt.Println(err)
+	/*
+		// Création de la table si elle n'existe pas
+		sqlStat := "CREATE TABLE IF NOT EXISTS public.pairs2 ( id SERIAL NOT NULL, altname character varying NOT NULL, base character varying, quote character varying, current_price character varying, fee_volume_currency character varying, ordermin character varying, costmin character varying, status character varying, PRIMARY KEY (id) ); ALTER TABLE IF EXISTS public.pairs OWNER to toto;"
+		_, errors = db.Exec(sqlStat)
+		if errors != nil {
+			fmt.Println(errors)
 			panic(err)
+		} else {
+			fmt.Println("Table OK")
 		}
-		// Eviter les collisions de clé primaire
-		now++
-		i += 3
-	}
+
+		// Enregistrement des données dans la base de données
+		now := time.Now().Unix()
+		i = 0
+		for _, value := range resultMap {
+			pairMap := value.(map[string]interface{})
+			// Insertion des données dans la base de données
+			sqlStatement := fmt.Sprintf("INSERT INTO pairs2 (id, altname, base, quote, current_price, fee_volume_currency, ordermin, costmin, status) VALUES (%d, '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')", now, pairMap["altname"], pairMap["base"], pairMap["quote"], tickers[i], pairMap["fee_volume_currency"], pairMap["ordermin"], pairMap["costmin"], pairMap["status"])
+			_, err := db.Exec(sqlStatement)
+			if err != nil {
+				fmt.Println(err)
+				panic(err)
+			}
+			// Eviter les collisions de clé primaire
+			now++
+			i += 3
+		}*/
 
 	startServer()
 
