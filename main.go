@@ -122,6 +122,7 @@ func main() {
 		return
 	}
 	defer file.Close()
+	fmt.Println("Archive/" + currentDate + ".txt")
 
 	// Ecriture du fichier avec notre giga string
 	_, err = file.WriteString(fileContent)
@@ -136,6 +137,7 @@ func main() {
 	}
 
 	fmt.Println("Fichier créé !")
+
 	/*
 		// Création de la table si elle n'existe pas
 		sqlStat := "CREATE TABLE IF NOT EXISTS public.pairs2 ( id SERIAL NOT NULL, altname character varying NOT NULL, base character varying, quote character varying, current_price character varying, fee_volume_currency character varying, ordermin character varying, costmin character varying, status character varying, PRIMARY KEY (id) ); ALTER TABLE IF EXISTS public.pairs OWNER to toto;"
