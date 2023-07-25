@@ -6,7 +6,7 @@ on:
       - dev
 
 jobs:
-  unit_test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,8 +23,19 @@ jobs:
       - name: Build
         run: go build .
 
+  exec:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Exec
         run: ./main.exe
 
+  test:
+    needs: exec
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Test
         run: go test -v ./main.go ./api.go ./server.go ./main_test.go
+
