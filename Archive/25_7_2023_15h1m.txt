@@ -1,0 +1,5892 @@
+Sauvegarde du 25_7_2023_15h1m
+
+L'unixtime est de : 1690290067
+La date du serveur est : Tue, 25 Jul 23 13:01:07 +0000
+Le status du serveur est : online
+Le timestamp est : 2023-07-25T13:01:07Z
+
+EURAUD :
+Base : ZEUR
+Quote : ZAUD
+Current price : 0.40000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 1
+Status : online
+
+RUNEUSD :
+Base : RUNE
+Quote : ZUSD
+Current price : 0.012200
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+SRMXBT :
+Base : SRM
+Quote : XXBT
+Current price : 1103.70000
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.00002
+Status : online
+
+TEERUSD :
+Base : TEER
+Quote : ZUSD
+Current price : 0.68934000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+AGLDUSD :
+Base : AGLD
+Quote : ZUSD
+Current price : 0.000000000000
+Fee Volume Currency : ZUSD
+Order min : 11
+Cost min : 0.5
+Status : online
+
+XDGUSDT :
+Base : XXDG
+Quote : USDT
+Current price : 0.000140870
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.5
+Status : online
+
+STORJXBT :
+Base : STORJ
+Quote : XXBT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.00002
+Status : online
+
+XRPCAD :
+Base : XXRP
+Quote : ZCAD
+Current price : 0.111000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 1
+Status : online
+
+YGGUSD :
+Base : YGG
+Quote : ZUSD
+Current price : 1443.94000
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.5
+Status : online
+
+TLMUSD :
+Base : TLM
+Quote : ZUSD
+Current price : 0.62630
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+BADGEREUR :
+Base : BADGER
+Quote : ZEUR
+Current price : 0.65800
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.45
+Status : online
+
+MULTIUSD :
+Base : MULTI
+Quote : ZUSD
+Current price : 0.77860000
+Fee Volume Currency : ZUSD
+Order min : 0.6
+Cost min : 0.5
+Status : online
+
+NANOXBT :
+Base : NANO
+Quote : XXBT
+Current price : 4122250.000
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.00002
+Status : online
+
+POLISUSD :
+Base : POLIS
+Quote : ZUSD
+Current price : 0.00011430000
+Fee Volume Currency : ZUSD
+Order min : 17
+Cost min : 0.5
+Status : online
+
+DOTEUR :
+Base : DOT
+Quote : ZEUR
+Current price : 0.243100
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+SCEUR :
+Base : SC
+Quote : ZEUR
+Current price : 0.077045200
+Fee Volume Currency : ZUSD
+Order min : 1300
+Cost min : 0.45
+Status : online
+
+SUSHIXBT :
+Base : SUSHI
+Quote : XXBT
+Current price : 0.063690
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+XDGUSD :
+Base : XXDG
+Quote : ZUSD
+Current price : 3.09000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.5
+Status : online
+
+LRCUSD :
+Base : LRC
+Quote : ZUSD
+Current price : 0.22200
+Fee Volume Currency : ZUSD
+Order min : 13
+Cost min : 0.5
+Status : online
+
+LUNA2USD :
+Base : LUNA2
+Quote : ZUSD
+Current price : 1.31688
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+OCEANXBT :
+Base : OCEAN
+Quote : XXBT
+Current price : 7.003800
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.00002
+Status : online
+
+SANDEUR :
+Base : SAND
+Quote : ZEUR
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.45
+Status : online
+
+AKTEUR :
+Base : AKT
+Quote : ZEUR
+Current price : 0.000792800
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.45
+Status : online
+
+ALGOEUR :
+Base : ALGO
+Quote : ZEUR
+Current price : 0.069723800
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.45
+Status : online
+
+FILEUR :
+Base : FIL
+Quote : ZEUR
+Current price : 18.00200000
+Fee Volume Currency : ZUSD
+Order min : 1.25
+Cost min : 0.45
+Status : online
+
+GMXUSD :
+Base : GMX
+Quote : ZUSD
+Current price : 0.33430000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.5
+Status : online
+
+USDTCAD :
+Base : USDT
+Quote : ZCAD
+Current price : 0.00398000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+NYMUSD :
+Base : NYM
+Quote : ZUSD
+Current price : 0.000136400
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+XTZGBP :
+Base : XTZ
+Quote : ZGBP
+Current price : 0.000206200
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+BATJPY :
+Base : BAT
+Quote : ZJPY
+Current price : 0.47100
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 50
+Status : online
+
+BONDUSD :
+Base : BOND
+Quote : ZUSD
+Current price : 0.09130
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+ETHAUD :
+Base : XETH
+Quote : ZAUD
+Current price : 0.00007100
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 1
+Status : online
+
+GALUSD :
+Base : GAL
+Quote : ZUSD
+Current price : 0.00064950000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+GRTEUR :
+Base : GRT
+Quote : ZEUR
+Current price : 5.30900
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : online
+
+MANAEUR :
+Base : MANA
+Quote : ZEUR
+Current price : 0.0785900
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.45
+Status : online
+
+USDTUSD :
+Base : USDT
+Quote : ZUSD
+Current price : 0.810800
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+XMRUSD :
+Base : XXMR
+Quote : ZUSD
+Current price : 1.76100
+Fee Volume Currency : ZUSD
+Order min : 0.035
+Cost min : 0.5
+Status : online
+
+MASKUSD :
+Base : MASK
+Quote : ZUSD
+Current price : 0.02900
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.5
+Status : online
+
+PSTAKEEUR :
+Base : PSTAKE
+Quote : ZEUR
+Current price : 0.00203400
+Fee Volume Currency : ZUSD
+Order min : 40
+Cost min : 0.45
+Status : online
+
+XMRUSDT :
+Base : XXMR
+Quote : USDT
+Current price : 0.045070
+Fee Volume Currency : ZUSD
+Order min : 0.035
+Cost min : 0.5
+Status : online
+
+XRPAUD :
+Base : XXRP
+Quote : ZAUD
+Current price : 0.0107900
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 1
+Status : online
+
+ADAXBT :
+Base : ADA
+Quote : XXBT
+Current price : 0.048500
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.00002
+Status : online
+
+BCHAUD :
+Base : BCH
+Quote : ZAUD
+Current price : 0.0003130
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 1
+Status : online
+
+FORTHUSD :
+Base : FORTH
+Quote : ZUSD
+Current price : 0.16300
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.5
+Status : online
+
+KSMXBT :
+Base : KSM
+Quote : XXBT
+Current price : 0.0001775400
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.00002
+Status : online
+
+XMRXBT :
+Base : XXMR
+Quote : XXBT
+Current price : 8.26000
+Fee Volume Currency : ZUSD
+Order min : 0.035
+Cost min : 0.00002
+Status : online
+
+ANTUSD :
+Base : ANT
+Quote : ZUSD
+Current price : 0.63900
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.5
+Status : online
+
+FLOWUSD :
+Base : FLOW
+Quote : ZUSD
+Current price : 0.000004910
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+MXCUSD :
+Base : MXC
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 200
+Cost min : 0.5
+Status : online
+
+SCUSD :
+Base : SC
+Quote : ZUSD
+Current price : 0.00484900
+Fee Volume Currency : ZUSD
+Order min : 1300
+Cost min : 0.5
+Status : online
+
+BICOUSD :
+Base : BICO
+Quote : ZUSD
+Current price : 0.048930000
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.5
+Status : online
+
+FXSUSD :
+Base : FXS
+Quote : ZUSD
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+RNDREUR :
+Base : RNDR
+Quote : ZEUR
+Current price : 22.60000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+SPELLUSD :
+Base : SPELL
+Quote : ZUSD
+Current price : 24.220000
+Fee Volume Currency : ZUSD
+Order min : 7500
+Cost min : 0.5
+Status : online
+
+ATLASUSD :
+Base : ATLAS
+Quote : ZUSD
+Current price : 4.49000
+Fee Volume Currency : ZUSD
+Order min : 1350
+Cost min : 0.5
+Status : online
+
+EURCAD :
+Base : ZEUR
+Quote : ZCAD
+Current price : 13.07000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 1
+Status : online
+
+LINKETH :
+Base : LINK
+Quote : XETH
+Current price : 0.34500
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.0002
+Status : online
+
+SNXETH :
+Base : SNX
+Quote : XETH
+Current price : 0.0232300
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.0002
+Status : online
+
+MLNXBT :
+Base : XMLN
+Quote : XXBT
+Current price : 3.0880000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.00002
+Status : online
+
+REPEUR :
+Base : XREP
+Quote : ZEUR
+Current price : 70.34000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : reduce_only
+
+YGGEUR :
+Base : YGG
+Quote : ZEUR
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.45
+Status : online
+
+ASTREUR :
+Base : ASTR
+Quote : ZEUR
+Current price : 6.753930
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.45
+Status : online
+
+BNCUSD :
+Base : BNC
+Quote : ZUSD
+Current price : 43044.50000
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.5
+Status : online
+
+GMTUSD :
+Base : GMT
+Quote : ZUSD
+Current price : 0.1298700
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.5
+Status : online
+
+MCUSD :
+Base : MC
+Quote : ZUSD
+Current price : 2.57900
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.5
+Status : online
+
+DOTXBT :
+Base : DOT
+Quote : XXBT
+Current price : 0.0009500
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.00002
+Status : online
+
+TRXEUR :
+Base : TRX
+Quote : ZEUR
+Current price : 0.000023680
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.45
+Status : online
+
+UNIUSD :
+Base : UNI
+Quote : ZUSD
+Current price : 1.198700
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+ETHEUR :
+Base : XETH
+Quote : ZEUR
+Current price : 0.06300
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.45
+Status : online
+
+ADAUSDT :
+Base : ADA
+Quote : USDT
+Current price : 0.05710000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+KINTUSD :
+Base : KINT
+Quote : ZUSD
+Current price : 0.000013130
+Fee Volume Currency : ZUSD
+Order min : 6.5
+Cost min : 0.5
+Status : online
+
+KSMDOT :
+Base : KSM
+Quote : DOT
+Current price : 0.533009
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.1
+Status : online
+
+PONDEUR :
+Base : POND
+Quote : ZEUR
+Current price : 2.73800
+Fee Volume Currency : ZUSD
+Order min : 600
+Cost min : 0.45
+Status : online
+
+QTUMEUR :
+Base : QTUM
+Quote : ZEUR
+Current price : 0.90835000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.45
+Status : online
+
+ROOKEUR :
+Base : ROOK
+Quote : ZEUR
+Current price : 181.980000
+Fee Volume Currency : ZUSD
+Order min : 0.35
+Cost min : 0.45
+Status : online
+
+SUSHIUSD :
+Base : SUSHI
+Quote : ZUSD
+Current price : 0.8710000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+BATETH :
+Base : BAT
+Quote : XETH
+Current price : 0.0047280000
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.0002
+Status : online
+
+ETHUSDC :
+Base : XETH
+Quote : USDC
+Current price : 24.20000
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.5
+Status : online
+
+LSKXBT :
+Base : LSK
+Quote : XXBT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+MASKEUR :
+Base : MASK
+Quote : ZEUR
+Current price : 29136.90000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.45
+Status : online
+
+USTUSDC :
+Base : UST
+Quote : USDC
+Current price : 6483.00000
+Fee Volume Currency : ZUSD
+Order min : 175
+Cost min : 0.5
+Status : online
+
+CFGEUR :
+Base : CFG
+Quote : ZEUR
+Current price : 0.0248000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+REPXBT :
+Base : XREP
+Quote : XXBT
+Current price : 0.96109
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.00002
+Status : reduce_only
+
+XRPEUR :
+Base : XXRP
+Quote : ZEUR
+Current price : 0.197200
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+GNOUSD :
+Base : GNO
+Quote : ZUSD
+Current price : 0.0000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.5
+Status : online
+
+LTCUSDT :
+Base : XLTC
+Quote : USDT
+Current price : 0.01300
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.5
+Status : online
+
+LUNA2EUR :
+Base : LUNA2
+Quote : ZEUR
+Current price : 0.0000027740
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+WAVESETH :
+Base : WAVES
+Quote : XETH
+Current price : 54.6100
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.0002
+Status : online
+
+ATOMUSDT :
+Base : ATOM
+Quote : USDT
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.5
+Status : online
+
+DYDXUSD :
+Base : DYDX
+Quote : ZUSD
+Current price : 1.76200
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+LUNAUSD :
+Base : LUNA
+Quote : ZUSD
+Current price : 0.0000070300
+Fee Volume Currency : ZUSD
+Order min : 30000
+Cost min : 0.5
+Status : online
+
+SOLUSDT :
+Base : SOL
+Quote : USDT
+Current price : 0.101300
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.5
+Status : online
+
+FXSEUR :
+Base : FXS
+Quote : ZEUR
+Current price : 63.67000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+GMXEUR :
+Base : GMX
+Quote : ZEUR
+Current price : 0.070100
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.45
+Status : online
+
+KP3RUSD :
+Base : KP3R
+Quote : ZUSD
+Current price : 0.669400
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.5
+Status : online
+
+QNTUSD :
+Base : QNT
+Quote : ZUSD
+Current price : 0.45200
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.5
+Status : online
+
+SOLEUR :
+Base : SOL
+Quote : ZEUR
+Current price : 0.30250000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.45
+Status : online
+
+EURCHF :
+Base : ZEUR
+Quote : CHF
+Current price : 69.60250
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.5
+Status : online
+
+IMXUSD :
+Base : IMX
+Quote : ZUSD
+Current price : 0.099100
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+LTCAUD :
+Base : XLTC
+Quote : ZAUD
+Current price : 0.38100
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 1
+Status : online
+
+NANOUSD :
+Base : NANO
+Quote : ZUSD
+Current price : 0.35800
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.5
+Status : online
+
+TVKEUR :
+Base : TVK
+Quote : ZEUR
+Current price : 0.39500
+Fee Volume Currency : ZUSD
+Order min : 110
+Cost min : 0.45
+Status : online
+
+UNIEUR :
+Base : UNI
+Quote : ZEUR
+Current price : 0.59500
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+ZECUSD :
+Base : XZEC
+Quote : ZUSD
+Current price : 0.15500
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.5
+Status : online
+
+ADAAUD :
+Base : ADA
+Quote : ZAUD
+Current price : 0.20600
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 1
+Status : online
+
+BATUSD :
+Base : BAT
+Quote : ZUSD
+Current price : 6.02400
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.5
+Status : online
+
+EOSXBT :
+Base : EOS
+Quote : XXBT
+Current price : 3.10000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+MSOLUSD :
+Base : MSOL
+Quote : ZUSD
+Current price : 1.28437
+Fee Volume Currency : ZUSD
+Order min : 0.225
+Cost min : 0.5
+Status : online
+
+BSXUSD :
+Base : BSX
+Quote : ZUSD
+Current price : 0.000181
+Fee Volume Currency : ZUSD
+Order min : 35000
+Cost min : 0.5
+Status : online
+
+CRVXBT :
+Base : CRV
+Quote : XXBT
+Current price : 4.51000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+ICPUSD :
+Base : ICP
+Quote : ZUSD
+Current price : 0.23950
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+KINTEUR :
+Base : KINT
+Quote : ZEUR
+Current price : 0.210300
+Fee Volume Currency : ZUSD
+Order min : 6.5
+Cost min : 0.45
+Status : online
+
+SCRTEUR :
+Base : SCRT
+Quote : ZEUR
+Current price : 0.40930000
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.45
+Status : online
+
+TRXETH :
+Base : TRX
+Quote : XETH
+Current price : 0.62383000
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.0002
+Status : reduce_only
+
+USDTJPY :
+Base : USDT
+Quote : ZJPY
+Current price : 0.0224600
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 50
+Status : online
+
+AXSEUR :
+Base : AXS
+Quote : ZEUR
+Current price : 0.00000000000
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.45
+Status : online
+
+BANDEUR :
+Base : BAND
+Quote : ZEUR
+Current price : 0.17900
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+FILETH :
+Base : FIL
+Quote : XETH
+Current price : 1.00023000
+Fee Volume Currency : ZUSD
+Order min : 1.25
+Cost min : 0.0002
+Status : online
+
+PHAUSD :
+Base : PHA
+Quote : ZUSD
+Current price : 7.4644200
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.5
+Status : online
+
+CQTEUR :
+Base : CQT
+Quote : ZEUR
+Current price : 999.00000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.45
+Status : online
+
+ENJEUR :
+Base : ENJ
+Quote : ZEUR
+Current price : 0.00225100
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+FETEUR :
+Base : FET
+Quote : ZEUR
+Current price : 0.21200
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.45
+Status : online
+
+EURUSD :
+Base : ZEUR
+Quote : ZUSD
+Current price : 0.0096400
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.5
+Status : online
+
+ATOMEUR :
+Base : ATOM
+Quote : ZEUR
+Current price : 0.20500
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.45
+Status : online
+
+AVAXEUR :
+Base : AVAX
+Quote : ZEUR
+Current price : 0.22500
+Fee Volume Currency : ZUSD
+Order min : 0.3
+Cost min : 0.45
+Status : online
+
+BLURUSD :
+Base : BLUR
+Quote : ZUSD
+Current price : 0.00010360000
+Fee Volume Currency : ZUSD
+Order min : 7.5
+Cost min : 0.5
+Status : online
+
+BSXEUR :
+Base : BSX
+Quote : ZEUR
+Current price : 0.58000
+Fee Volume Currency : ZUSD
+Order min : 35000
+Cost min : 0.45
+Status : online
+
+PEPEUSD :
+Base : PEPE
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 500000
+Cost min : 0.5
+Status : online
+
+REPV2USD :
+Base : REPV2
+Quote : ZUSD
+Current price : 7.97900
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+TRXXBT :
+Base : TRX
+Quote : XXBT
+Current price : 0.633301
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.00002
+Status : online
+
+UMAUSD :
+Base : UMA
+Quote : ZUSD
+Current price : 0.01930
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+BOBAEUR :
+Base : BOBA
+Quote : ZEUR
+Current price : 0.528300
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+CVCEUR :
+Base : CVC
+Quote : ZEUR
+Current price : 0.195880
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+FLREUR :
+Base : FLR
+Quote : ZEUR
+Current price : 29293.60000
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.45
+Status : online
+
+KNCUSD :
+Base : KNC
+Quote : ZUSD
+Current price : 0.00008870
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.5
+Status : online
+
+UNFIEUR :
+Base : UNFI
+Quote : ZEUR
+Current price : 0.000022600
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+WAVESUSD :
+Base : WAVES
+Quote : ZUSD
+Current price : 0.091800
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+API3EUR :
+Base : API3
+Quote : ZEUR
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.45
+Status : online
+
+API3USD :
+Base : API3
+Quote : ZUSD
+Current price : 23.08000
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.5
+Status : online
+
+USDCCHF :
+Base : USDC
+Quote : CHF
+Current price : 0.016120
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+REPUSD :
+Base : XREP
+Quote : ZUSD
+Current price : 38334.80000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+ALGOUSD :
+Base : ALGO
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+BCHXBT :
+Base : BCH
+Quote : XXBT
+Current price : 0.01490000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.00002
+Status : online
+
+DENTUSD :
+Base : DENT
+Quote : ZUSD
+Current price : 4.79700
+Fee Volume Currency : ZUSD
+Order min : 7000
+Cost min : 0.5
+Status : online
+
+HFTEUR :
+Base : HFT
+Quote : ZEUR
+Current price : 1.155700
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.45
+Status : online
+
+RADEUR :
+Base : RAD
+Quote : ZEUR
+Current price : 1.47770000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+RADUSD :
+Base : RAD
+Quote : ZUSD
+Current price : 0.37170000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+STXEUR :
+Base : STX
+Quote : ZEUR
+Current price : 0.14100
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.45
+Status : online
+
+USDCHF :
+Base : ZUSD
+Quote : CHF
+Current price : 0.0024160
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+CELREUR :
+Base : CELR
+Quote : ZEUR
+Current price : 0.2460000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+ENSUSD :
+Base : ENS
+Quote : ZUSD
+Current price : 0.000376220
+Fee Volume Currency : ZUSD
+Order min : 0.4
+Cost min : 0.5
+Status : online
+
+ICPEUR :
+Base : ICP
+Quote : ZEUR
+Current price : 156.677
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+IDEXUSD :
+Base : IDEX
+Quote : ZUSD
+Current price : 104.790000
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.5
+Status : online
+
+PAXGETH :
+Base : PAXG
+Quote : XETH
+Current price : 0.72400
+Fee Volume Currency : ZUSD
+Order min : 0.003
+Cost min : 0.0002
+Status : online
+
+TEUR :
+Base : T
+Quote : ZEUR
+Current price : 0.09810
+Fee Volume Currency : ZUSD
+Order min : 130
+Cost min : 0.45
+Status : online
+
+ADXUSD :
+Base : ADX
+Quote : ZUSD
+Current price : 0.0000077600
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : online
+
+BADGERUSD :
+Base : BADGER
+Quote : ZUSD
+Current price : 23.090000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.5
+Status : online
+
+DAIUSDT :
+Base : DAI
+Quote : USDT
+Current price : 0.53250000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+FARMEUR :
+Base : FARM
+Quote : ZEUR
+Current price : 1.17060000
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.45
+Status : online
+
+XRPUSD :
+Base : XXRP
+Quote : ZUSD
+Current price : 0.000092650
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+ALCXUSD :
+Base : ALCX
+Quote : ZUSD
+Current price : 0.00923000
+Fee Volume Currency : ZUSD
+Order min : 0.3
+Cost min : 0.5
+Status : online
+
+LPTXBT :
+Base : LPT
+Quote : XXBT
+Current price : 0.82600
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.00002
+Status : online
+
+MATICGBP :
+Base : MATIC
+Quote : ZGBP
+Current price : 0.00045700
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.43
+Status : online
+
+LTCXBT :
+Base : XLTC
+Quote : XXBT
+Current price : 0.0807570
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.00002
+Status : online
+
+ETHXBT :
+Base : XETH
+Quote : XXBT
+Current price : 0.0064760000
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.00002
+Status : online
+
+ZRXUSD :
+Base : ZRX
+Quote : ZUSD
+Current price : 0.00040000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+INTRUSD :
+Base : INTR
+Quote : ZUSD
+Current price : 0.21700
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+KAVAUSD :
+Base : KAVA
+Quote : ZUSD
+Current price : 0.000001720
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.5
+Status : online
+
+LINKUSDT :
+Base : LINK
+Quote : USDT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.5
+Status : online
+
+PARAUSD :
+Base : PARA
+Quote : ZUSD
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.5
+Status : online
+
+SANDGBP :
+Base : SAND
+Quote : ZGBP
+Current price : 1.10528
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.43
+Status : online
+
+SGBUSD :
+Base : SGB
+Quote : ZUSD
+Current price : 0.017700
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.5
+Status : online
+
+STGUSD :
+Base : STG
+Quote : ZUSD
+Current price : 29.850000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.5
+Status : online
+
+XDGEUR :
+Base : XXDG
+Quote : ZEUR
+Current price : 0.20200
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.45
+Status : online
+
+ATOMGBP :
+Base : ATOM
+Quote : ZGBP
+Current price : 0.14010000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.43
+Status : online
+
+ATOMUSD :
+Base : ATOM
+Quote : ZUSD
+Current price : 0.12924000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.5
+Status : online
+
+KINEUR :
+Base : KIN
+Quote : ZEUR
+Current price : 6.98070000
+Fee Volume Currency : ZUSD
+Order min : 1200000
+Cost min : 0.45
+Status : online
+
+PAXGXBT :
+Base : PAXG
+Quote : XXBT
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 0.003
+Cost min : 0.00002
+Status : online
+
+ZRXXBT :
+Base : ZRX
+Quote : XXBT
+Current price : 0.000023770
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.00002
+Status : online
+
+WBTCEUR :
+Base : WBTC
+Quote : ZEUR
+Current price : 0.054150000
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.45
+Status : online
+
+XMREUR :
+Base : XXMR
+Quote : ZEUR
+Current price : 0.151600
+Fee Volume Currency : ZUSD
+Order min : 0.035
+Cost min : 0.45
+Status : online
+
+ACAEUR :
+Base : ACA
+Quote : ZEUR
+Current price : 0.000002650
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+AKTUSD :
+Base : AKT
+Quote : ZUSD
+Current price : 1677.50000
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.5
+Status : online
+
+FETUSD :
+Base : FET
+Quote : ZUSD
+Current price : 0.111330
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.5
+Status : online
+
+NANOEUR :
+Base : NANO
+Quote : ZEUR
+Current price : 0.0000157000
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.45
+Status : online
+
+GARIEUR :
+Base : GARI
+Quote : ZEUR
+Current price : 0.697466
+Fee Volume Currency : ZUSD
+Order min : 85
+Cost min : 0.45
+Status : online
+
+MNGOUSD :
+Base : MNGO
+Quote : ZUSD
+Current price : 0.81000
+Fee Volume Currency : ZUSD
+Order min : 275
+Cost min : 0.5
+Status : online
+
+SDNEUR :
+Base : SDN
+Quote : ZEUR
+Current price : 0.869440
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.45
+Status : online
+
+WBTCXBT :
+Base : WBTC
+Quote : XXBT
+Current price : 0.00002790
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.00002
+Status : online
+
+KNCETH :
+Base : KNC
+Quote : XETH
+Current price : 0.10850
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.0002
+Status : online
+
+MNGOEUR :
+Base : MNGO
+Quote : ZEUR
+Current price : 2.6550000
+Fee Volume Currency : ZUSD
+Order min : 275
+Cost min : 0.45
+Status : online
+
+MOVREUR :
+Base : MOVR
+Quote : ZEUR
+Current price : 4.06500
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.45
+Status : online
+
+OCEANEUR :
+Base : OCEAN
+Quote : ZEUR
+Current price : 0.60000
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.45
+Status : online
+
+APTEUR :
+Base : APT
+Quote : ZEUR
+Current price : 2.38000
+Fee Volume Currency : ZUSD
+Order min : 0.35
+Cost min : 0.45
+Status : online
+
+ARPAUSD :
+Base : ARPA
+Quote : ZUSD
+Current price : 0.085290
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.5
+Status : online
+
+DOTETH :
+Base : DOT
+Quote : XETH
+Current price : 0.22600
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.0002
+Status : online
+
+KAVAETH :
+Base : KAVA
+Quote : XETH
+Current price : 0.03200
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.0002
+Status : online
+
+STORJUSD :
+Base : STORJ
+Quote : ZUSD
+Current price : 0.007600
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+TUSDUSD :
+Base : TUSD
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+XBTDAI :
+Base : XXBT
+Quote : DAI
+Current price : 0.12460000
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.5
+Status : online
+
+CHREUR :
+Base : CHR
+Quote : ZEUR
+Current price : 0.039900
+Fee Volume Currency : ZUSD
+Order min : 28
+Cost min : 0.45
+Status : online
+
+EOSUSD :
+Base : EOS
+Quote : ZUSD
+Current price : 25838.20000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+ETHDAI :
+Base : XETH
+Quote : DAI
+Current price : 141.539000
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.5
+Status : online
+
+GALAEUR :
+Base : GALA
+Quote : ZEUR
+Current price : 5.86500
+Fee Volume Currency : ZUSD
+Order min : 120
+Cost min : 0.45
+Status : online
+
+AAVEGBP :
+Base : AAVE
+Quote : ZGBP
+Current price : 12643.00000
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.43
+Status : online
+
+ANTEUR :
+Base : ANT
+Quote : ZEUR
+Current price : 1.044400
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.45
+Status : online
+
+BTTUSD :
+Base : BTT
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 7500000
+Cost min : 0.5
+Status : online
+
+CELRUSD :
+Base : CELR
+Quote : ZUSD
+Current price : 0.6106300000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+XRTUSD :
+Base : XRT
+Quote : ZUSD
+Current price : 0.09900
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+XRPJPY :
+Base : XXRP
+Quote : ZJPY
+Current price : 53.510000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 50
+Status : online
+
+YFIXBT :
+Base : YFI
+Quote : XXBT
+Current price : 0.01300
+Fee Volume Currency : ZUSD
+Order min : 0.0007
+Cost min : 0.00002
+Status : online
+
+GRTGBP :
+Base : GRT
+Quote : ZGBP
+Current price : 29116.36000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.43
+Status : online
+
+POLISEUR :
+Base : POLIS
+Quote : ZEUR
+Current price : 1.90100
+Fee Volume Currency : ZUSD
+Order min : 17
+Cost min : 0.45
+Status : online
+
+TRUUSD :
+Base : TRU
+Quote : ZUSD
+Current price : 1.6340000
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.5
+Status : online
+
+WAXLEUR :
+Base : WAXL
+Quote : ZEUR
+Current price : 0.014680
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.45
+Status : online
+
+KEEPXBT :
+Base : KEEP
+Quote : XXBT
+Current price : 2.82200
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.00002
+Status : online
+
+SDNUSD :
+Base : SDN
+Quote : ZUSD
+Current price : 83.30000
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.5
+Status : online
+
+FARMUSD :
+Base : FARM
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.5
+Status : online
+
+TUSD :
+Base : T
+Quote : ZUSD
+Current price : 0.058600
+Fee Volume Currency : ZUSD
+Order min : 130
+Cost min : 0.5
+Status : online
+
+UNIETH :
+Base : UNI
+Quote : XETH
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.0002
+Status : online
+
+USDJPY :
+Base : ZUSD
+Quote : ZJPY
+Current price : 2.8270000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 50
+Status : online
+
+KARUSD :
+Base : KAR
+Quote : ZUSD
+Current price : 0.81100000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+LCXUSD :
+Base : LCX
+Quote : ZUSD
+Current price : 26.86200
+Fee Volume Currency : ZUSD
+Order min : 45
+Cost min : 0.5
+Status : online
+
+ETHGBP :
+Base : XETH
+Quote : ZGBP
+Current price : 0.541700
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.43
+Status : online
+
+XTZAUD :
+Base : XTZ
+Quote : ZAUD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+DASHUSD :
+Base : DASH
+Quote : ZUSD
+Current price : 2.7540000
+Fee Volume Currency : ZUSD
+Order min : 0.075
+Cost min : 0.5
+Status : online
+
+DOTJPY :
+Base : DOT
+Quote : ZJPY
+Current price : 0.32070000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 50
+Status : online
+
+FISEUR :
+Base : FIS
+Quote : ZEUR
+Current price : 0.072300
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.45
+Status : online
+
+GTCEUR :
+Base : GTC
+Quote : ZEUR
+Current price : 0.88500
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+AAVEETH :
+Base : AAVE
+Quote : XETH
+Current price : 0.554400
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.0002
+Status : online
+
+ALGOETH :
+Base : ALGO
+Quote : XETH
+Current price : 1.00150000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.0002
+Status : online
+
+AXSUSD :
+Base : AXS
+Quote : ZUSD
+Current price : 0.090520000
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.5
+Status : online
+
+C98USD :
+Base : C98
+Quote : ZUSD
+Current price : 9.14000
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.5
+Status : online
+
+POLSEUR :
+Base : POLS
+Quote : ZEUR
+Current price : 0.23800
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+ZECEUR :
+Base : XZEC
+Quote : ZEUR
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.45
+Status : online
+
+ANTETH :
+Base : ANT
+Quote : XETH
+Current price : 54.80000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.0002
+Status : online
+
+BALUSD :
+Base : BAL
+Quote : ZUSD
+Current price : 1.05980000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+GMTEUR :
+Base : GMT
+Quote : ZEUR
+Current price : 0.0502600
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.45
+Status : online
+
+TEEREUR :
+Base : TEER
+Quote : ZEUR
+Current price : 3.98000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+ANKRXBT :
+Base : ANKR
+Quote : XXBT
+Current price : 0.0142490000
+Fee Volume Currency : ZUSD
+Order min : 200
+Cost min : 0.00002
+Status : online
+
+GHSTUSD :
+Base : GHST
+Quote : ZUSD
+Current price : 0.268700
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+REQUSD :
+Base : REQ
+Quote : ZUSD
+Current price : 1.65000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+XTZUSDT :
+Base : XTZ
+Quote : USDT
+Current price : 1.38500
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+COMPUSD :
+Base : COMP
+Quote : ZUSD
+Current price : 0.1106900
+Fee Volume Currency : ZUSD
+Order min : 0.11
+Cost min : 0.5
+Status : online
+
+HDXEUR :
+Base : HDX
+Quote : ZEUR
+Current price : 0.0000173300
+Fee Volume Currency : ZUSD
+Order min : 700
+Cost min : 0.45
+Status : online
+
+NYMXBT :
+Base : NYM
+Quote : XXBT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.00002
+Status : online
+
+OCEANUSD :
+Base : OCEAN
+Quote : ZUSD
+Current price : 0.16030000
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.5
+Status : online
+
+SRMEUR :
+Base : SRM
+Quote : ZEUR
+Current price : 1.476500
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.45
+Status : online
+
+DOTUSD :
+Base : DOT
+Quote : ZUSD
+Current price : 97.52300000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+LMWRUSD :
+Base : LMWR
+Quote : ZUSD
+Current price : 0.27560000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+RLCEUR :
+Base : RLC
+Quote : ZEUR
+Current price : 0.3822200
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+RUNEEUR :
+Base : RUNE
+Quote : ZEUR
+Current price : 0.0033900
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+AVAXUSDT :
+Base : AVAX
+Quote : USDT
+Current price : 0.2250000
+Fee Volume Currency : ZUSD
+Order min : 0.3
+Cost min : 0.5
+Status : online
+
+ICXXBT :
+Base : ICX
+Quote : XXBT
+Current price : 0.00041300
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.00002
+Status : online
+
+LINKUSD :
+Base : LINK
+Quote : ZUSD
+Current price : 0.99986000
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.5
+Status : online
+
+NODLEUR :
+Base : NODL
+Quote : ZEUR
+Current price : 0.016330
+Fee Volume Currency : ZUSD
+Order min : 2000
+Cost min : 0.45
+Status : online
+
+PARAEUR :
+Base : PARA
+Quote : ZEUR
+Current price : 0.275048
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.45
+Status : online
+
+MLNEUR :
+Base : XMLN
+Quote : ZEUR
+Current price : 33059.000000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.45
+Status : online
+
+XBTJPY :
+Base : XXBT
+Quote : ZJPY
+Current price : 0.000037600
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 50
+Status : online
+
+ATLASEUR :
+Base : ATLAS
+Quote : ZEUR
+Current price : 0.57000
+Fee Volume Currency : ZUSD
+Order min : 1350
+Cost min : 0.45
+Status : online
+
+ENJGBP :
+Base : ENJ
+Quote : ZGBP
+Current price : 0.90490000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.43
+Status : online
+
+FIDAUSD :
+Base : FIDA
+Quote : ZUSD
+Current price : 4.38000
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.5
+Status : online
+
+LSKETH :
+Base : LSK
+Quote : XETH
+Current price : 0.561200
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.0002
+Status : online
+
+SAMOEUR :
+Base : SAMO
+Quote : ZEUR
+Current price : 0.06310000
+Fee Volume Currency : ZUSD
+Order min : 1250
+Cost min : 0.45
+Status : online
+
+ZRXEUR :
+Base : ZRX
+Quote : ZEUR
+Current price : 0.000029381
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+ENJJPY :
+Base : ENJ
+Quote : ZJPY
+Current price : 1.783200
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 50
+Status : online
+
+EWTUSD :
+Base : EWT
+Quote : ZUSD
+Current price : 0.68916000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.5
+Status : online
+
+IDEXEUR :
+Base : IDEX
+Quote : ZEUR
+Current price : 0.03800
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.45
+Status : online
+
+LSKEUR :
+Base : LSK
+Quote : ZEUR
+Current price : 4.67890
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+KSMUSD :
+Base : KSM
+Quote : ZUSD
+Current price : 0.137200
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.5
+Status : online
+
+MATICUSD :
+Base : MATIC
+Quote : ZUSD
+Current price : 2.07200
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.5
+Status : online
+
+ADAGBP :
+Base : ADA
+Quote : ZGBP
+Current price : 0.596100
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.43
+Status : online
+
+AIRUSD :
+Base : AIR
+Quote : ZUSD
+Current price : 0.20300
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.5
+Status : online
+
+BCHUSD :
+Base : BCH
+Quote : ZUSD
+Current price : 2.688000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.5
+Status : online
+
+GARIUSD :
+Base : GARI
+Quote : ZUSD
+Current price : 0.9640000
+Fee Volume Currency : ZUSD
+Order min : 85
+Cost min : 0.5
+Status : online
+
+JASMYUSD :
+Base : JASMY
+Quote : ZUSD
+Current price : 0.39700
+Fee Volume Currency : ZUSD
+Order min : 800
+Cost min : 0.5
+Status : online
+
+TBTCUSD :
+Base : TBTC
+Quote : ZUSD
+Current price : 1.35700
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.5
+Status : online
+
+XLMXBT :
+Base : XXLM
+Quote : XXBT
+Current price : 0.63610000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.00002
+Status : online
+
+CVCUSD :
+Base : CVC
+Quote : ZUSD
+Current price : 0.00000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+DENTEUR :
+Base : DENT
+Quote : ZEUR
+Current price : 31.595000
+Fee Volume Currency : ZUSD
+Order min : 7000
+Cost min : 0.45
+Status : online
+
+EWTEUR :
+Base : EWT
+Quote : ZEUR
+Current price : 29.350000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.45
+Status : online
+
+INTREUR :
+Base : INTR
+Quote : ZEUR
+Current price : 0.0226100
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+PLAEUR :
+Base : PLA
+Quote : ZEUR
+Current price : 5.18100
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+TVKUSD :
+Base : TVK
+Quote : ZUSD
+Current price : 0.0003720000
+Fee Volume Currency : ZUSD
+Order min : 110
+Cost min : 0.5
+Status : online
+
+XLMGBP :
+Base : XXLM
+Quote : ZGBP
+Current price : 0.0052190000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.43
+Status : online
+
+AAVEUSD :
+Base : AAVE
+Quote : ZUSD
+Current price : 0.89000
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.5
+Status : online
+
+APEUSDT :
+Base : APE
+Quote : USDT
+Current price : 0.00077700
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+ETHWEUR :
+Base : ETHW
+Quote : ZEUR
+Current price : 1.049089000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.45
+Status : online
+
+GSTUSD :
+Base : GST
+Quote : ZUSD
+Current price : 0.12600000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+POLSUSD :
+Base : POLS
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+RARIEUR :
+Base : RARI
+Quote : ZEUR
+Current price : 211.400000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+XTZUSD :
+Base : XTZ
+Quote : ZUSD
+Current price : 0.00971400
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+USDCAD :
+Base : ZUSD
+Quote : ZCAD
+Current price : 2441.47000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+COTIEUR :
+Base : COTI
+Quote : ZEUR
+Current price : 0.974600
+Fee Volume Currency : ZUSD
+Order min : 65
+Cost min : 0.45
+Status : online
+
+CRVEUR :
+Base : CRV
+Quote : ZEUR
+Current price : 0.00670000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+INJEUR :
+Base : INJ
+Quote : ZEUR
+Current price : 0.049740
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.45
+Status : online
+
+KINUSD :
+Base : KIN
+Quote : ZUSD
+Current price : 161.580000
+Fee Volume Currency : ZUSD
+Order min : 1200000
+Cost min : 0.5
+Status : online
+
+FLOWGBP :
+Base : FLOW
+Quote : ZGBP
+Current price : 0.1434800
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+OMGXBT :
+Base : OMG
+Quote : XXBT
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.00002
+Status : online
+
+RENUSD :
+Base : REN
+Quote : ZUSD
+Current price : 0.190400
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.5
+Status : online
+
+ALCXEUR :
+Base : ALCX
+Quote : ZEUR
+Current price : 115.570000
+Fee Volume Currency : ZUSD
+Order min : 0.3
+Cost min : 0.45
+Status : online
+
+FIDAEUR :
+Base : FIDA
+Quote : ZEUR
+Current price : 132.08000
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.45
+Status : online
+
+POWRUSD :
+Base : POWR
+Quote : ZUSD
+Current price : 0.07000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : online
+
+TRUEUR :
+Base : TRU
+Quote : ZEUR
+Current price : 0.90507000
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.45
+Status : online
+
+FORTHEUR :
+Base : FORTH
+Quote : ZEUR
+Current price : 0.000318170
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.45
+Status : online
+
+GTCUSD :
+Base : GTC
+Quote : ZUSD
+Current price : 20.89000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+MINAUSD :
+Base : MINA
+Quote : ZUSD
+Current price : 0.286010
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+QTUMETH :
+Base : QTUM
+Quote : XETH
+Current price : 1.45719
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.0002
+Status : online
+
+CVXEUR :
+Base : CVX
+Quote : ZEUR
+Current price : 0.5530500000
+Fee Volume Currency : ZUSD
+Order min : 0.9
+Cost min : 0.45
+Status : online
+
+KNCXBT :
+Base : KNC
+Quote : XXBT
+Current price : 0.000154300
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.00002
+Status : online
+
+MINAXBT :
+Base : MINA
+Quote : XXBT
+Current price : 0.000256290
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+XBTCAD :
+Base : XXBT
+Quote : ZCAD
+Current price : 0.157800
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 1
+Status : online
+
+ETHUSD :
+Base : XETH
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.5
+Status : online
+
+ENJXBT :
+Base : ENJ
+Quote : XXBT
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.00002
+Status : online
+
+JUNOUSD :
+Base : JUNO
+Quote : ZUSD
+Current price : 0.00006568
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.5
+Status : online
+
+QTUMUSD :
+Base : QTUM
+Quote : ZUSD
+Current price : 0.00002500
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+SANDXBT :
+Base : SAND
+Quote : XXBT
+Current price : 3.50100
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.00002
+Status : online
+
+ATOMXBT :
+Base : ATOM
+Quote : XXBT
+Current price : 0.000029310
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.00002
+Status : online
+
+GHSTXBT :
+Base : GHST
+Quote : XXBT
+Current price : 7.461370
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+MANAUSD :
+Base : MANA
+Quote : ZUSD
+Current price : 0.076400
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.5
+Status : online
+
+RENXBT :
+Base : REN
+Quote : XXBT
+Current price : 0.0000032600
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.00002
+Status : online
+
+SBRUSD :
+Base : SBR
+Quote : ZUSD
+Current price : 0.00554200
+Fee Volume Currency : ZUSD
+Order min : 5000
+Cost min : 0.5
+Status : online
+
+USDCCAD :
+Base : USDC
+Quote : ZCAD
+Current price : 0.0158100
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+ARBEUR :
+Base : ARB
+Quote : ZEUR
+Current price : 0.079000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+AUDIOEUR :
+Base : AUDIO
+Quote : ZEUR
+Current price : 0.23200
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.45
+Status : online
+
+KILTUSD :
+Base : KILT
+Quote : ZUSD
+Current price : 0.01400
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.5
+Status : online
+
+KSMETH :
+Base : KSM
+Quote : XETH
+Current price : 5.814000
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.0002
+Status : online
+
+USDTEUR :
+Base : USDT
+Quote : ZEUR
+Current price : 0.3490000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+ETHCHF :
+Base : XETH
+Quote : CHF
+Current price : 0.00139320
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.5
+Status : online
+
+LTCETH :
+Base : XLTC
+Quote : XETH
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.0002
+Status : online
+
+PAXGEUR :
+Base : PAXG
+Quote : ZEUR
+Current price : 0.00015500
+Fee Volume Currency : ZUSD
+Order min : 0.003
+Cost min : 0.45
+Status : online
+
+RAREUSD :
+Base : RARE
+Quote : ZUSD
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.5
+Status : online
+
+FILUSD :
+Base : FIL
+Quote : ZUSD
+Current price : 0.0000018200
+Fee Volume Currency : ZUSD
+Order min : 1.25
+Cost min : 0.5
+Status : online
+
+INJUSD :
+Base : INJ
+Quote : ZUSD
+Current price : 1.40400
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.5
+Status : online
+
+SCRTUSD :
+Base : SCRT
+Quote : ZUSD
+Current price : 89.372560
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.5
+Status : online
+
+STGEUR :
+Base : STG
+Quote : ZEUR
+Current price : 1.09000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.45
+Status : online
+
+AUDIOUSD :
+Base : AUDIO
+Quote : ZUSD
+Current price : 29120.90000
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.5
+Status : online
+
+AVAXUSD :
+Base : AVAX
+Quote : ZUSD
+Current price : 0.34500
+Fee Volume Currency : ZUSD
+Order min : 0.3
+Cost min : 0.5
+Status : online
+
+C98EUR :
+Base : C98
+Quote : ZEUR
+Current price : 0.21300
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.45
+Status : online
+
+DOTUSDT :
+Base : DOT
+Quote : USDT
+Current price : 0.0024300
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+WAVESEUR :
+Base : WAVES
+Quote : ZEUR
+Current price : 0.59540000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.45
+Status : online
+
+XBTUSDT :
+Base : XXBT
+Quote : USDT
+Current price : 1.730500
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.5
+Status : online
+
+XLMEUR :
+Base : XXLM
+Quote : ZEUR
+Current price : 233.580000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.45
+Status : online
+
+MINAEUR :
+Base : MINA
+Quote : ZEUR
+Current price : 1854.000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+SUSHIGBP :
+Base : SUSHI
+Quote : ZGBP
+Current price : 92.85000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+ADAUSD :
+Base : ADA
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+BITUSD :
+Base : BIT
+Quote : ZUSD
+Current price : 0.30500
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.5
+Status : online
+
+DYDXEUR :
+Base : DYDX
+Quote : ZEUR
+Current price : 262335.00000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.45
+Status : online
+
+MATICUSDT :
+Base : MATIC
+Quote : USDT
+Current price : 0.015800
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.5
+Status : online
+
+FLOWXBT :
+Base : FLOW
+Quote : XXBT
+Current price : 0.99000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+GNOEUR :
+Base : GNO
+Quote : ZEUR
+Current price : 27.79000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.45
+Status : online
+
+RPLEUR :
+Base : RPL
+Quote : ZEUR
+Current price : 1.10660000
+Fee Volume Currency : ZUSD
+Order min : 0.125
+Cost min : 0.45
+Status : online
+
+LDOUSD :
+Base : LDO
+Quote : ZUSD
+Current price : 0.59120000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.5
+Status : online
+
+OXTXBT :
+Base : OXT
+Quote : XXBT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 55
+Cost min : 0.00002
+Status : online
+
+ACHEUR :
+Base : ACH
+Quote : ZEUR
+Current price : 0.07600
+Fee Volume Currency : ZUSD
+Order min : 325
+Cost min : 0.45
+Status : online
+
+BNTXBT :
+Base : BNT
+Quote : XXBT
+Current price : 0.507600
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.00002
+Status : online
+
+COMPEUR :
+Base : COMP
+Quote : ZEUR
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 0.11
+Cost min : 0.45
+Status : online
+
+EWTXBT :
+Base : EWT
+Quote : XXBT
+Current price : 0.00306900
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.00002
+Status : online
+
+QNTEUR :
+Base : QNT
+Quote : ZEUR
+Current price : 1.00020000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.45
+Status : online
+
+ETCETH :
+Base : XETC
+Quote : XETH
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.0002
+Status : reduce_only
+
+ALGOGBP :
+Base : ALGO
+Quote : ZGBP
+Current price : 345.300000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.43
+Status : online
+
+FTMUSD :
+Base : FTM
+Quote : ZUSD
+Current price : 233.640000
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.5
+Status : online
+
+NODLUSD :
+Base : NODL
+Quote : ZUSD
+Current price : 0.000010430
+Fee Volume Currency : ZUSD
+Order min : 2000
+Cost min : 0.5
+Status : online
+
+GLMRUSD :
+Base : GLMR
+Quote : ZUSD
+Current price : 0.70600
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+MLNUSD :
+Base : XMLN
+Quote : ZUSD
+Current price : 0.008070000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.5
+Status : online
+
+ZECXBT :
+Base : XZEC
+Quote : XXBT
+Current price : 2.336200
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.00002
+Status : online
+
+RLCUSD :
+Base : RLC
+Quote : ZUSD
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+SUSHIEUR :
+Base : SUSHI
+Quote : ZEUR
+Current price : 4.02590
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+BCHUSDT :
+Base : BCH
+Quote : USDT
+Current price : 4.466600
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.5
+Status : online
+
+ETHWETH :
+Base : ETHW
+Quote : XETH
+Current price : 2.438000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.0002
+Status : online
+
+PEPEEUR :
+Base : PEPE
+Quote : ZEUR
+Current price : 0.583800
+Fee Volume Currency : ZUSD
+Order min : 500000
+Cost min : 0.45
+Status : online
+
+POWREUR :
+Base : POWR
+Quote : ZEUR
+Current price : 0.00108600
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : online
+
+BALEUR :
+Base : BAL
+Quote : ZEUR
+Current price : 0.86954
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+GSTEUR :
+Base : GST
+Quote : ZEUR
+Current price : 1.0023400
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+KEYUSD :
+Base : KEY
+Quote : ZUSD
+Current price : 0.077060000
+Fee Volume Currency : ZUSD
+Order min : 1500
+Cost min : 0.5
+Status : online
+
+XTZXBT :
+Base : XTZ
+Quote : XXBT
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.00002
+Status : online
+
+XBTEUR :
+Base : XXBT
+Quote : ZEUR
+Current price : 0.000196700
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.45
+Status : online
+
+ASTRUSD :
+Base : ASTR
+Quote : ZUSD
+Current price : 2.02590000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.5
+Status : online
+
+KAREUR :
+Base : KAR
+Quote : ZEUR
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+LPTGBP :
+Base : LPT
+Quote : ZGBP
+Current price : 0.00803000
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.43
+Status : online
+
+SOLUSD :
+Base : SOL
+Quote : ZUSD
+Current price : 2.4950000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.5
+Status : online
+
+OXYEUR :
+Base : OXY
+Quote : ZEUR
+Current price : 0.0000077700
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+RBCUSD :
+Base : RBC
+Quote : ZUSD
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+WBTCUSD :
+Base : WBTC
+Quote : ZUSD
+Current price : 0.0000008530
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.5
+Status : online
+
+AUDUSD :
+Base : ZAUD
+Quote : ZUSD
+Current price : 0.0022130
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.5
+Status : online
+
+BLZUSD :
+Base : BLZ
+Quote : ZUSD
+Current price : 0.00043750
+Fee Volume Currency : ZUSD
+Order min : 55
+Cost min : 0.5
+Status : online
+
+GLMREUR :
+Base : GLMR
+Quote : ZEUR
+Current price : 0.00030870
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+HDXUSD :
+Base : HDX
+Quote : ZUSD
+Current price : 5.171200
+Fee Volume Currency : ZUSD
+Order min : 700
+Cost min : 0.5
+Status : online
+
+UMAEUR :
+Base : UMA
+Quote : ZEUR
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+USTUSD :
+Base : UST
+Quote : ZUSD
+Current price : 0.0247800
+Fee Volume Currency : ZUSD
+Order min : 175
+Cost min : 0.5
+Status : online
+
+ALGOUSDT :
+Base : ALGO
+Quote : USDT
+Current price : 141.742
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.5
+Status : online
+
+ATOMETH :
+Base : ATOM
+Quote : XETH
+Current price : 0.000163900
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.0002
+Status : online
+
+FLRUSD :
+Base : FLR
+Quote : ZUSD
+Current price : 89.33000
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.5
+Status : online
+
+MANAXBT :
+Base : MANA
+Quote : XXBT
+Current price : 0.90840000
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.00002
+Status : online
+
+PAXGUSD :
+Base : PAXG
+Quote : ZUSD
+Current price : 1.17100
+Fee Volume Currency : ZUSD
+Order min : 0.003
+Cost min : 0.5
+Status : online
+
+XBTAUD :
+Base : XXBT
+Quote : ZAUD
+Current price : 1941.040000
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 1
+Status : online
+
+XTZETH :
+Base : XTZ
+Quote : XETH
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.0002
+Status : reduce_only
+
+ADAETH :
+Base : ADA
+Quote : XETH
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.0002
+Status : online
+
+BCHGBP :
+Base : BCH
+Quote : ZGBP
+Current price : 0.000001192000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.43
+Status : online
+
+ETHAED :
+Base : XETH
+Quote : AED
+Current price : 5.21400
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 3
+Status : cancel_only
+
+NMRUSD :
+Base : NMR
+Quote : ZUSD
+Current price : 0.034610000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.5
+Status : online
+
+LTCEUR :
+Base : XLTC
+Quote : ZEUR
+Current price : 0.382370000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.45
+Status : online
+
+XDGXBT :
+Base : XXDG
+Quote : XXBT
+Current price : 0.719700
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.00002
+Status : online
+
+XLMUSD :
+Base : XXLM
+Quote : ZUSD
+Current price : 0.066730000
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.5
+Status : online
+
+CVXUSD :
+Base : CVX
+Quote : ZUSD
+Current price : 0.29060000
+Fee Volume Currency : ZUSD
+Order min : 0.9
+Cost min : 0.5
+Status : online
+
+DASHEUR :
+Base : DASH
+Quote : ZEUR
+Current price : 0.0000098250
+Fee Volume Currency : ZUSD
+Order min : 0.075
+Cost min : 0.45
+Status : online
+
+PLAUSD :
+Base : PLA
+Quote : ZUSD
+Current price : 0.97019000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+SCETH :
+Base : SC
+Quote : XETH
+Current price : 0.733400
+Fee Volume Currency : ZUSD
+Order min : 1300
+Cost min : 0.0002
+Status : online
+
+BCHEUR :
+Base : BCH
+Quote : ZEUR
+Current price : 0.215500
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.45
+Status : online
+
+NANOETH :
+Base : NANO
+Quote : XETH
+Current price : 0.000023937
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.0002
+Status : online
+
+ORCAUSD :
+Base : ORCA
+Quote : ZUSD
+Current price : 43.50000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.5
+Status : online
+
+BNCEUR :
+Base : BNC
+Quote : ZEUR
+Current price : 0.0000335500
+Fee Volume Currency : ZUSD
+Order min : 12.5
+Cost min : 0.45
+Status : online
+
+OGNUSD :
+Base : OGN
+Quote : ZUSD
+Current price : 0.21000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+OMGUSD :
+Base : OMG
+Quote : ZUSD
+Current price : 0.0379300
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.5
+Status : online
+
+ETHCAD :
+Base : XETH
+Quote : ZCAD
+Current price : 0.174400
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 1
+Status : online
+
+ALPHAEUR :
+Base : ALPHA
+Quote : ZEUR
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+EWTGBP :
+Base : EWT
+Quote : ZGBP
+Current price : 0.0174600
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.43
+Status : online
+
+STXUSD :
+Base : STX
+Quote : ZUSD
+Current price : 0.95400
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.5
+Status : online
+
+XBTUSD :
+Base : XXBT
+Quote : ZUSD
+Current price : 1.31670000
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.5
+Status : online
+
+XBTAED :
+Base : XXBT
+Quote : AED
+Current price : 0.18600
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 3
+Status : cancel_only
+
+EULUSD :
+Base : EUL
+Quote : ZUSD
+Current price : 0.77880000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+ICXETH :
+Base : ICX
+Quote : XETH
+Current price : 0.27620000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.0002
+Status : online
+
+SCXBT :
+Base : SC
+Quote : XXBT
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 1300
+Cost min : 0.00002
+Status : online
+
+STORJEUR :
+Base : STORJ
+Quote : ZEUR
+Current price : 0.000075610000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+NEARUSD :
+Base : NEAR
+Quote : ZUSD
+Current price : 0.236660
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+SHIBUSDT :
+Base : SHIB
+Quote : USDT
+Current price : 0.30392600
+Fee Volume Currency : ZUSD
+Order min : 500000
+Cost min : 0.5
+Status : online
+
+SNXUSD :
+Base : SNX
+Quote : ZUSD
+Current price : 0.000011990
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.5
+Status : online
+
+BOBAUSD :
+Base : BOBA
+Quote : ZUSD
+Current price : 0.0000004500
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+CHZUSD :
+Base : CHZ
+Quote : ZUSD
+Current price : 0.077400
+Fee Volume Currency : ZUSD
+Order min : 40
+Cost min : 0.5
+Status : online
+
+GALAUSD :
+Base : GALA
+Quote : ZUSD
+Current price : 80.84000
+Fee Volume Currency : ZUSD
+Order min : 120
+Cost min : 0.5
+Status : online
+
+MKREUR :
+Base : MKR
+Quote : ZEUR
+Current price : 0.09200
+Fee Volume Currency : ZUSD
+Order min : 0.0075
+Cost min : 0.45
+Status : online
+
+SAMOUSD :
+Base : SAMO
+Quote : ZUSD
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 1250
+Cost min : 0.5
+Status : online
+
+ETHJPY :
+Base : XETH
+Quote : ZJPY
+Current price : 0.30400
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 50
+Status : online
+
+CQTUSD :
+Base : CQT
+Quote : ZUSD
+Current price : 11.032000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.5
+Status : online
+
+MOVRUSD :
+Base : MOVR
+Quote : ZUSD
+Current price : 32.420000
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.5
+Status : online
+
+NEAREUR :
+Base : NEAR
+Quote : ZEUR
+Current price : 0.07100
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+OXTUSD :
+Base : OXT
+Quote : ZUSD
+Current price : 54.40000
+Fee Volume Currency : ZUSD
+Order min : 55
+Cost min : 0.5
+Status : online
+
+EOSETH :
+Base : EOS
+Quote : XETH
+Current price : 0.34000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.0002
+Status : reduce_only
+
+KNCEUR :
+Base : KNC
+Quote : ZEUR
+Current price : 0.0730700
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.45
+Status : online
+
+SANDUSD :
+Base : SAND
+Quote : ZUSD
+Current price : 0.90500000
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.5
+Status : online
+
+LTCJPY :
+Base : XLTC
+Quote : ZJPY
+Current price : 0.000003770
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 50
+Status : online
+
+1INCHUSD :
+Base : 1INCH
+Quote : ZUSD
+Current price : 60.3400
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.5
+Status : online
+
+BTTEUR :
+Base : BTT
+Quote : ZEUR
+Current price : 0.30430000
+Fee Volume Currency : ZUSD
+Order min : 7500000
+Cost min : 0.45
+Status : online
+
+COMPXBT :
+Base : COMP
+Quote : XXBT
+Current price : 732.40000
+Fee Volume Currency : ZUSD
+Order min : 0.11
+Cost min : 0.00002
+Status : online
+
+RAREEUR :
+Base : RARE
+Quote : ZEUR
+Current price : 0.000007410
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.45
+Status : online
+
+LTCUSD :
+Base : XLTC
+Quote : ZUSD
+Current price : 4.942000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.5
+Status : online
+
+BNTEUR :
+Base : BNT
+Quote : ZEUR
+Current price : 0.082900
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+EULEUR :
+Base : EUL
+Quote : ZEUR
+Current price : 25339.20000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+MULTIEUR :
+Base : MULTI
+Quote : ZEUR
+Current price : 0.97000
+Fee Volume Currency : ZUSD
+Order min : 0.6
+Cost min : 0.45
+Status : online
+
+PSTAKEUSD :
+Base : PSTAKE
+Quote : ZUSD
+Current price : 8.133300
+Fee Volume Currency : ZUSD
+Order min : 40
+Cost min : 0.5
+Status : online
+
+RARIXBT :
+Base : RARI
+Quote : XXBT
+Current price : 0.0058980000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.00002
+Status : online
+
+ROOKUSD :
+Base : ROOK
+Quote : ZUSD
+Current price : 0.001480
+Fee Volume Currency : ZUSD
+Order min : 0.35
+Cost min : 0.5
+Status : online
+
+UNIXBT :
+Base : UNI
+Quote : XXBT
+Current price : 0.51300
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.00002
+Status : online
+
+WAXLUSD :
+Base : WAXL
+Quote : ZUSD
+Current price : 29121.70000
+Fee Volume Currency : ZUSD
+Order min : 7
+Cost min : 0.5
+Status : online
+
+ANKRUSD :
+Base : ANKR
+Quote : ZUSD
+Current price : 0.001100000
+Fee Volume Currency : ZUSD
+Order min : 200
+Cost min : 0.5
+Status : online
+
+APEUSD :
+Base : APE
+Quote : ZUSD
+Current price : 8.98700000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+BANDUSD :
+Base : BAND
+Quote : ZUSD
+Current price : 0.67761
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+MANAUSDT :
+Base : MANA
+Quote : USDT
+Current price : 0.000001317000
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.5
+Status : online
+
+XRPGBP :
+Base : XXRP
+Quote : ZGBP
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.43
+Status : online
+
+SOLGBP :
+Base : SOL
+Quote : ZGBP
+Current price : 146.04000000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.43
+Status : online
+
+SUPERUSD :
+Base : SUPER
+Quote : ZUSD
+Current price : 29.66000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+CHZEUR :
+Base : CHZ
+Quote : ZEUR
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 40
+Cost min : 0.45
+Status : online
+
+DAIEUR :
+Base : DAI
+Quote : ZEUR
+Current price : 3.23300
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+LINKGBP :
+Base : LINK
+Quote : ZGBP
+Current price : 0.021700
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.43
+Status : online
+
+OGNEUR :
+Base : OGN
+Quote : ZEUR
+Current price : 0.0013500
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+KP3REUR :
+Base : KP3R
+Quote : ZEUR
+Current price : 1.06000
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.45
+Status : online
+
+PERPEUR :
+Base : PERP
+Quote : ZEUR
+Current price : 0.000013100
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.45
+Status : online
+
+TBTCEUR :
+Base : TBTC
+Quote : ZEUR
+Current price : 0.31300
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.45
+Status : online
+
+USTEUR :
+Base : UST
+Quote : ZEUR
+Current price : 0.00000
+Fee Volume Currency : ZUSD
+Order min : 175
+Cost min : 0.45
+Status : online
+
+ALICEUSD :
+Base : ALICE
+Quote : ZUSD
+Current price : 0.303847
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+BATXBT :
+Base : BAT
+Quote : XXBT
+Current price : 0.007050
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.00002
+Status : online
+
+DASHXBT :
+Base : DASH
+Quote : XXBT
+Current price : 0.000461520
+Fee Volume Currency : ZUSD
+Order min : 0.075
+Cost min : 0.00002
+Status : online
+
+ETHWUSD :
+Base : ETHW
+Quote : ZUSD
+Current price : 11.83000
+Fee Volume Currency : ZUSD
+Order min : 1.5
+Cost min : 0.5
+Status : online
+
+APEEUR :
+Base : APE
+Quote : ZEUR
+Current price : 6.31630000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+KAVAXBT :
+Base : KAVA
+Quote : XXBT
+Current price : 1613.03000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.00002
+Status : online
+
+LDOEUR :
+Base : LDO
+Quote : ZEUR
+Current price : 0.72080000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.45
+Status : online
+
+YFIEUR :
+Base : YFI
+Quote : ZEUR
+Current price : 0.000006850000
+Fee Volume Currency : ZUSD
+Order min : 0.0007
+Cost min : 0.45
+Status : online
+
+SUIEUR :
+Base : SUI
+Quote : ZEUR
+Current price : 0.333100
+Fee Volume Currency : ZUSD
+Order min : 0.005
+Cost min : 0.45
+Status : online
+
+ADAEUR :
+Base : ADA
+Quote : ZEUR
+Current price : 5.72600
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+BLZEUR :
+Base : BLZ
+Quote : ZEUR
+Current price : 0.178900
+Fee Volume Currency : ZUSD
+Order min : 55
+Cost min : 0.45
+Status : online
+
+LTCGBP :
+Base : XLTC
+Quote : ZGBP
+Current price : 2.4160000
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.43
+Status : online
+
+RARIUSD :
+Base : RARI
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+TOKEUSD :
+Base : TOKE
+Quote : ZUSD
+Current price : 0.012850000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+ENSEUR :
+Base : ENS
+Quote : ZEUR
+Current price : 0.024400
+Fee Volume Currency : ZUSD
+Order min : 0.4
+Cost min : 0.45
+Status : online
+
+EURTEUR :
+Base : EURT
+Quote : ZEUR
+Current price : 0.1002100
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+JASMYEUR :
+Base : JASMY
+Quote : ZEUR
+Current price : 7.22200
+Fee Volume Currency : ZUSD
+Order min : 800
+Cost min : 0.45
+Status : online
+
+MVUSD :
+Base : MV
+Quote : ZUSD
+Current price : 0.00039300
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : online
+
+ADXEUR :
+Base : ADX
+Quote : ZEUR
+Current price : 1853.73000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : online
+
+OMGEUR :
+Base : OMG
+Quote : ZEUR
+Current price : 0.0000
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.45
+Status : online
+
+EOSEUR :
+Base : EOS
+Quote : ZEUR
+Current price : 0.651900
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+MATICXBT :
+Base : MATIC
+Quote : XXBT
+Current price : 0.053980000
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.00002
+Status : online
+
+TOKEEUR :
+Base : TOKE
+Quote : ZEUR
+Current price : 0.0128950000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+QTUMXBT :
+Base : QTUM
+Quote : XXBT
+Current price : 0.0008700
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.00002
+Status : online
+
+GRTUSD :
+Base : GRT
+Quote : ZUSD
+Current price : 0.11124000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : online
+
+REPV2EUR :
+Base : REPV2
+Quote : ZEUR
+Current price : 1.83000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+XBTCHF :
+Base : XXBT
+Quote : CHF
+Current price : 2.107000
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.5
+Status : online
+
+AGLDEUR :
+Base : AGLD
+Quote : ZEUR
+Current price : 0.003040
+Fee Volume Currency : ZUSD
+Order min : 11
+Cost min : 0.45
+Status : online
+
+FILGBP :
+Base : FIL
+Quote : ZGBP
+Current price : 1.00050000
+Fee Volume Currency : ZUSD
+Order min : 1.25
+Cost min : 0.43
+Status : online
+
+MANAETH :
+Base : MANA
+Quote : XETH
+Current price : 49.20000
+Fee Volume Currency : ZUSD
+Order min : 8
+Cost min : 0.0002
+Status : online
+
+MKRUSD :
+Base : MKR
+Quote : ZUSD
+Current price : 16.29500000
+Fee Volume Currency : ZUSD
+Order min : 0.0075
+Cost min : 0.5
+Status : online
+
+MKRXBT :
+Base : MKR
+Quote : XXBT
+Current price : 1854.31000
+Fee Volume Currency : ZUSD
+Order min : 0.0075
+Cost min : 0.00002
+Status : online
+
+TLMEUR :
+Base : TLM
+Quote : ZEUR
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+TUSDEUR :
+Base : TUSD
+Quote : ZEUR
+Current price : 0.048970000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+SHIBUSD :
+Base : SHIB
+Quote : ZUSD
+Current price : 0.004027790
+Fee Volume Currency : ZUSD
+Order min : 500000
+Cost min : 0.5
+Status : online
+
+CSMUSD :
+Base : CSM
+Quote : ZUSD
+Current price : 0.000015000
+Fee Volume Currency : ZUSD
+Order min : 300
+Cost min : 0.5
+Status : online
+
+DOTGBP :
+Base : DOT
+Quote : ZGBP
+Current price : 0.13770000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.43
+Status : online
+
+FLOWEUR :
+Base : FLOW
+Quote : ZEUR
+Current price : 2.02200
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+SHIBEUR :
+Base : SHIB
+Quote : ZEUR
+Current price : 0.42700
+Fee Volume Currency : ZUSD
+Order min : 500000
+Cost min : 0.45
+Status : online
+
+MATICEUR :
+Base : MATIC
+Quote : ZEUR
+Current price : 0.65800
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.45
+Status : online
+
+XRPXBT :
+Base : XXRP
+Quote : XXBT
+Current price : 1.10680000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.00002
+Status : online
+
+BCHJPY :
+Base : BCH
+Quote : ZJPY
+Current price : 3.59000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 50
+Status : online
+
+BLUREUR :
+Base : BLUR
+Quote : ZEUR
+Current price : 3.58000
+Fee Volume Currency : ZUSD
+Order min : 7.5
+Cost min : 0.45
+Status : online
+
+CRVUSD :
+Base : CRV
+Quote : ZUSD
+Current price : 0.3158000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+EGLDEUR :
+Base : EGLD
+Quote : ZEUR
+Current price : 1.613600
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.45
+Status : online
+
+BITEUR :
+Base : BIT
+Quote : ZEUR
+Current price : 0.047910000
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.45
+Status : online
+
+KSMEUR :
+Base : KSM
+Quote : ZEUR
+Current price : 11.98000
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.45
+Status : online
+
+USDTGBP :
+Base : USDT
+Quote : ZGBP
+Current price : 0.0000147000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+YFIUSD :
+Base : YFI
+Quote : ZUSD
+Current price : 0.003360
+Fee Volume Currency : ZUSD
+Order min : 0.0007
+Cost min : 0.5
+Status : online
+
+FTMEUR :
+Base : FTM
+Quote : ZEUR
+Current price : 1.00009000
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.45
+Status : online
+
+IMXEUR :
+Base : IMX
+Quote : ZEUR
+Current price : 2742.360000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+SGBEUR :
+Base : SGB
+Quote : ZEUR
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.45
+Status : online
+
+USDCGBP :
+Base : USDC
+Quote : ZGBP
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+KILTEUR :
+Base : KILT
+Quote : ZEUR
+Current price : 0.000105800
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.45
+Status : online
+
+LINKAUD :
+Base : LINK
+Quote : ZAUD
+Current price : 0.000000000
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 1
+Status : online
+
+REQEUR :
+Base : REQ
+Quote : ZEUR
+Current price : 0.000020000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+SPELLEUR :
+Base : SPELL
+Quote : ZEUR
+Current price : 0.000003810
+Fee Volume Currency : ZUSD
+Order min : 7500
+Cost min : 0.45
+Status : online
+
+1INCHEUR :
+Base : 1INCH
+Quote : ZEUR
+Current price : 0.0004610
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 0.45
+Status : online
+
+APTUSD :
+Base : APT
+Quote : ZUSD
+Current price : 0.0118400
+Fee Volume Currency : ZUSD
+Order min : 0.35
+Cost min : 0.5
+Status : online
+
+CSMEUR :
+Base : CSM
+Quote : ZEUR
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 300
+Cost min : 0.45
+Status : online
+
+FLOWETH :
+Base : FLOW
+Quote : XETH
+Current price : 0.86500
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.0002
+Status : online
+
+UNFIUSD :
+Base : UNFI
+Quote : ZUSD
+Current price : 0.00061800
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.5
+Status : online
+
+WOOEUR :
+Base : WOO
+Quote : ZEUR
+Current price : 0.3459000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+ARPAEUR :
+Base : ARPA
+Quote : ZEUR
+Current price : 0.198800
+Fee Volume Currency : ZUSD
+Order min : 125
+Cost min : 0.45
+Status : online
+
+SRMUSD :
+Base : SRM
+Quote : ZUSD
+Current price : 1.911400
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.5
+Status : online
+
+AAVEXBT :
+Base : AAVE
+Quote : XXBT
+Current price : 13.250000
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.00002
+Status : online
+
+EURTUSD :
+Base : EURT
+Quote : ZUSD
+Current price : 0.25430000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+OXTEUR :
+Base : OXT
+Quote : ZEUR
+Current price : 0.048230
+Fee Volume Currency : ZUSD
+Order min : 55
+Cost min : 0.45
+Status : online
+
+BATEUR :
+Base : BAT
+Quote : ZEUR
+Current price : 0.08500
+Fee Volume Currency : ZUSD
+Order min : 20
+Cost min : 0.45
+Status : online
+
+CFGUSD :
+Base : CFG
+Quote : ZUSD
+Current price : 2.63000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+LCXEUR :
+Base : LCX
+Quote : ZEUR
+Current price : 0.04220
+Fee Volume Currency : ZUSD
+Order min : 45
+Cost min : 0.45
+Status : online
+
+XTZEUR :
+Base : XTZ
+Quote : ZEUR
+Current price : 0.129000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+ANKREUR :
+Base : ANKR
+Quote : ZEUR
+Current price : 17.62000
+Fee Volume Currency : ZUSD
+Order min : 200
+Cost min : 0.45
+Status : online
+
+EOSUSDT :
+Base : EOS
+Quote : USDT
+Current price : 0.219000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+FILXBT :
+Base : FIL
+Quote : XXBT
+Current price : 0.043200
+Fee Volume Currency : ZUSD
+Order min : 1.25
+Cost min : 0.00002
+Status : online
+
+LMWREUR :
+Base : LMWR
+Quote : ZEUR
+Current price : 0.0087370000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.45
+Status : online
+
+USDCUSDT :
+Base : USDC
+Quote : USDT
+Current price : 0.001020
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+ALPHAUSD :
+Base : ALPHA
+Quote : ZUSD
+Current price : 0.161900
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+LSKUSD :
+Base : LSK
+Quote : ZUSD
+Current price : 1854.347000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+SUPEREUR :
+Base : SUPER
+Quote : ZEUR
+Current price : 0.0009960000
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.45
+Status : online
+
+USDAED :
+Base : ZUSD
+Quote : AED
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 3
+Status : online
+
+REPV2XBT :
+Base : REPV2
+Quote : XXBT
+Current price : 0.014200000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.00002
+Status : online
+
+RPLUSD :
+Base : RPL
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 0.125
+Cost min : 0.5
+Status : online
+
+USDCUSD :
+Base : USDC
+Quote : ZUSD
+Current price : 0.854781
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+WOOUSD :
+Base : WOO
+Quote : ZUSD
+Current price : 0.000000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.5
+Status : online
+
+HFTUSD :
+Base : HFT
+Quote : ZUSD
+Current price : 0.098500
+Fee Volume Currency : ZUSD
+Order min : 8.5
+Cost min : 0.5
+Status : online
+
+LUNAEUR :
+Base : LUNA
+Quote : ZEUR
+Current price : 0.087400
+Fee Volume Currency : ZUSD
+Order min : 30000
+Cost min : 0.45
+Status : online
+
+MCEUR :
+Base : MC
+Quote : ZEUR
+Current price : 0.00058900
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.45
+Status : online
+
+NMREUR :
+Base : NMR
+Quote : ZEUR
+Current price : 0.0000020200
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.45
+Status : online
+
+XCNEUR :
+Base : XCN
+Quote : ZEUR
+Current price : 0.180300
+Fee Volume Currency : ZUSD
+Order min : 300
+Cost min : 0.45
+Status : online
+
+PHAEUR :
+Base : PHA
+Quote : ZEUR
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.45
+Status : online
+
+USDCEUR :
+Base : USDC
+Quote : ZEUR
+Current price : 2.581190
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+ETCXBT :
+Base : XETC
+Quote : XXBT
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.00002
+Status : reduce_only
+
+MLNETH :
+Base : XMLN
+Quote : XETH
+Current price : 0.00279100
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.0002
+Status : online
+
+AIREUR :
+Base : AIR
+Quote : ZEUR
+Current price : 0.00610000
+Fee Volume Currency : ZUSD
+Order min : 500
+Cost min : 0.45
+Status : online
+
+USDTAUD :
+Base : USDT
+Quote : ZAUD
+Current price : 0.96700
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+RAYUSD :
+Base : RAY
+Quote : ZUSD
+Current price : 0.0030900
+Fee Volume Currency : ZUSD
+Order min : 18
+Cost min : 0.5
+Status : online
+
+ARBUSD :
+Base : ARB
+Quote : ZUSD
+Current price : 26516.60000
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+BALXBT :
+Base : BAL
+Quote : XXBT
+Current price : 2.024400
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.00002
+Status : online
+
+CRVETH :
+Base : CRV
+Quote : XETH
+Current price : 0.21670
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.0002
+Status : online
+
+MIRUSD :
+Base : MIR
+Quote : ZUSD
+Current price : 0.00000000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.5
+Status : online
+
+CHRUSD :
+Base : CHR
+Quote : ZUSD
+Current price : 0.10100
+Fee Volume Currency : ZUSD
+Order min : 28
+Cost min : 0.5
+Status : online
+
+GRTXBT :
+Base : GRT
+Quote : XXBT
+Current price : 2.47800
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.00002
+Status : online
+
+STEPEUR :
+Base : STEP
+Quote : ZEUR
+Current price : 0.0211100
+Fee Volume Currency : ZUSD
+Order min : 325
+Cost min : 0.45
+Status : online
+
+TRXUSD :
+Base : TRX
+Quote : ZUSD
+Current price : 0.0000070600
+Fee Volume Currency : ZUSD
+Order min : 100
+Cost min : 0.5
+Status : online
+
+XRPUSDT :
+Base : XXRP
+Quote : USDT
+Current price : 13.96000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+XBTGBP :
+Base : XXBT
+Quote : ZGBP
+Current price : 0.000116400
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.43
+Status : online
+
+LINKEUR :
+Base : LINK
+Quote : ZEUR
+Current price : 0.00369400
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.45
+Status : online
+
+NYMEUR :
+Base : NYM
+Quote : ZEUR
+Current price : 0.57550000
+Fee Volume Currency : ZUSD
+Order min : 25
+Cost min : 0.45
+Status : online
+
+OCEANGBP :
+Base : OCEAN
+Quote : ZGBP
+Current price : 0.86980000
+Fee Volume Currency : ZUSD
+Order min : 12
+Cost min : 0.43
+Status : online
+
+OMGJPY :
+Base : OMG
+Quote : ZJPY
+Current price : 0.001000000
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 50
+Status : online
+
+GALEUR :
+Base : GAL
+Quote : ZEUR
+Current price : 0.043360000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.45
+Status : online
+
+REPV2ETH :
+Base : REPV2
+Quote : XETH
+Current price : 0.000003850
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.0002
+Status : online
+
+USDCAUD :
+Base : USDC
+Quote : ZAUD
+Current price : 0.19200
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 1
+Status : online
+
+SBREUR :
+Base : SBR
+Quote : ZEUR
+Current price : 0.0000000
+Fee Volume Currency : ZUSD
+Order min : 5000
+Cost min : 0.45
+Status : online
+
+ETCUSD :
+Base : XETC
+Quote : ZUSD
+Current price : 26349.60000
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.5
+Status : online
+
+XRTEUR :
+Base : XRT
+Quote : ZEUR
+Current price : 0.109460
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+EGLDUSD :
+Base : EGLD
+Quote : ZUSD
+Current price : 0.880900
+Fee Volume Currency : ZUSD
+Order min : 0.15
+Cost min : 0.5
+Status : online
+
+ENJUSD :
+Base : ENJ
+Quote : ZUSD
+Current price : 0.0711500
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+ICXEUR :
+Base : ICX
+Quote : ZEUR
+Current price : 28.592000
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : online
+
+KEEPEUR :
+Base : KEEP
+Quote : ZEUR
+Current price : 0.85260
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : reduce_only
+
+USDTCHF :
+Base : USDT
+Quote : CHF
+Current price : 0.142500
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+GHSTEUR :
+Base : GHST
+Quote : ZEUR
+Current price : 0.27600
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.45
+Status : online
+
+KEYEUR :
+Base : KEY
+Quote : ZEUR
+Current price : 20.46000
+Fee Volume Currency : ZUSD
+Order min : 1500
+Cost min : 0.45
+Status : online
+
+MSOLEUR :
+Base : MSOL
+Quote : ZEUR
+Current price : 0.01800
+Fee Volume Currency : ZUSD
+Order min : 0.225
+Cost min : 0.45
+Status : online
+
+SYNEUR :
+Base : SYN
+Quote : ZEUR
+Current price : 0.01170
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.45
+Status : online
+
+SUIUSD :
+Base : SUI
+Quote : ZUSD
+Current price : 0.53510000
+Fee Volume Currency : ZUSD
+Order min : 0.005
+Cost min : 0.5
+Status : online
+
+BCHETH :
+Base : BCH
+Quote : XETH
+Current price : 0.100140000
+Fee Volume Currency : ZUSD
+Order min : 0.05
+Cost min : 0.0002
+Status : online
+
+GNOXBT :
+Base : GNO
+Quote : XXBT
+Current price : 0.043800
+Fee Volume Currency : ZUSD
+Order min : 0.06
+Cost min : 0.00002
+Status : online
+
+LINKXBT :
+Base : LINK
+Quote : XXBT
+Current price : 1.00010000
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 0.00002
+Status : online
+
+MVEUR :
+Base : MV
+Quote : ZEUR
+Current price : 0.631900
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.45
+Status : online
+
+RAYEUR :
+Base : RAY
+Quote : ZEUR
+Current price : 0.36000
+Fee Volume Currency : ZUSD
+Order min : 18
+Cost min : 0.45
+Status : online
+
+ACHUSD :
+Base : ACH
+Quote : ZUSD
+Current price : 0.53699000
+Fee Volume Currency : ZUSD
+Order min : 325
+Cost min : 0.5
+Status : online
+
+BNTUSD :
+Base : BNT
+Quote : ZUSD
+Current price : 0.2720000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.5
+Status : online
+
+COTIUSD :
+Base : COTI
+Quote : ZUSD
+Current price : 1756.790000
+Fee Volume Currency : ZUSD
+Order min : 65
+Cost min : 0.5
+Status : online
+
+PERPUSD :
+Base : PERP
+Quote : ZUSD
+Current price : 3.46000
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.5
+Status : online
+
+CTSIEUR :
+Base : CTSI
+Quote : ZEUR
+Current price : 0.01350000
+Fee Volume Currency : ZUSD
+Order min : 33
+Cost min : 0.45
+Status : online
+
+KAVAEUR :
+Base : KAVA
+Quote : ZEUR
+Current price : 1056.80000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.45
+Status : online
+
+ORCAEUR :
+Base : ORCA
+Quote : ZEUR
+Current price : 1.53000
+Fee Volume Currency : ZUSD
+Order min : 6
+Cost min : 0.45
+Status : online
+
+AUDJPY :
+Base : ZAUD
+Quote : ZJPY
+Current price : 0.0000001153
+Fee Volume Currency : ZUSD
+Order min : 10
+Cost min : 50
+Status : online
+
+FISUSD :
+Base : FIS
+Quote : ZUSD
+Current price : 29130.90000
+Fee Volume Currency : ZUSD
+Order min : 9
+Cost min : 0.5
+Status : online
+
+ICXUSD :
+Base : ICX
+Quote : ZUSD
+Current price : 0.000059100
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : online
+
+SYNUSD :
+Base : SYN
+Quote : ZUSD
+Current price : 0.0037400
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.5
+Status : online
+
+SOLXBT :
+Base : SOL
+Quote : XXBT
+Current price : 1.88100
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.00002
+Status : online
+
+STEPUSD :
+Base : STEP
+Quote : ZUSD
+Current price : 26.990000
+Fee Volume Currency : ZUSD
+Order min : 325
+Cost min : 0.5
+Status : online
+
+TBTCXBT :
+Base : TBTC
+Quote : XXBT
+Current price : 17.98000
+Fee Volume Currency : ZUSD
+Order min : 0.00025
+Cost min : 0.00002
+Status : online
+
+USTUSDT :
+Base : UST
+Quote : USDT
+Current price : 1.00400000
+Fee Volume Currency : ZUSD
+Order min : 175
+Cost min : 0.5
+Status : online
+
+ACAUSD :
+Base : ACA
+Quote : ZUSD
+Current price : 4.09570
+Fee Volume Currency : ZUSD
+Order min : 50
+Cost min : 0.5
+Status : online
+
+BICOEUR :
+Base : BICO
+Quote : ZEUR
+Current price : 4.08000
+Fee Volume Currency : ZUSD
+Order min : 17.5
+Cost min : 0.45
+Status : online
+
+MIREUR :
+Base : MIR
+Quote : ZEUR
+Current price : 0.053000
+Fee Volume Currency : ZUSD
+Order min : 35
+Cost min : 0.45
+Status : online
+
+RBCEUR :
+Base : RBC
+Quote : ZEUR
+Current price : 0.387000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.45
+Status : online
+
+WAVESXBT :
+Base : WAVES
+Quote : XXBT
+Current price : 0.0000435700
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.00002
+Status : online
+
+OMGETH :
+Base : OMG
+Quote : XETH
+Current price : 0.0014900
+Fee Volume Currency : ZUSD
+Order min : 3.5
+Cost min : 0.0002
+Status : online
+
+SNXXBT :
+Base : SNX
+Quote : XXBT
+Current price : 2.10300
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.00002
+Status : online
+
+XRPETH :
+Base : XXRP
+Quote : XETH
+Current price : 17.144000
+Fee Volume Currency : ZUSD
+Order min : 15
+Cost min : 0.0002
+Status : online
+
+BONDEUR :
+Base : BOND
+Quote : ZEUR
+Current price : 0.008920000
+Fee Volume Currency : ZUSD
+Order min : 1
+Cost min : 0.45
+Status : online
+
+EURTUSDT :
+Base : EURT
+Quote : USDT
+Current price : 1.22700
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+KEEPUSD :
+Base : KEEP
+Quote : ZUSD
+Current price : 0.589143
+Fee Volume Currency : ZUSD
+Order min : 30
+Cost min : 0.5
+Status : reduce_only
+
+LPTEUR :
+Base : LPT
+Quote : ZEUR
+Current price : 0.000020213
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.45
+Status : online
+
+MXCEUR :
+Base : MXC
+Quote : ZEUR
+Current price : 0.00662400000
+Fee Volume Currency : ZUSD
+Order min : 200
+Cost min : 0.45
+Status : online
+
+ETCEUR :
+Base : XETC
+Quote : ZEUR
+Current price : 0.000006730
+Fee Volume Currency : ZUSD
+Order min : 0.25
+Cost min : 0.45
+Status : online
+
+XCNUSD :
+Base : XCN
+Quote : ZUSD
+Current price : 1.63442
+Fee Volume Currency : ZUSD
+Order min : 300
+Cost min : 0.5
+Status : online
+
+CTSIUSD :
+Base : CTSI
+Quote : ZUSD
+Current price : 0.258500
+Fee Volume Currency : ZUSD
+Order min : 33
+Cost min : 0.5
+Status : online
+
+LPTUSD :
+Base : LPT
+Quote : ZUSD
+Current price : 0.65730000
+Fee Volume Currency : ZUSD
+Order min : 0.65
+Cost min : 0.5
+Status : online
+
+RENEUR :
+Base : REN
+Quote : ZEUR
+Current price : 0.14276500
+Fee Volume Currency : ZUSD
+Order min : 60
+Cost min : 0.45
+Status : online
+
+RNDRUSD :
+Base : RNDR
+Quote : ZUSD
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.5
+Status : online
+
+LRCEUR :
+Base : LRC
+Quote : ZEUR
+Current price : 0.09400
+Fee Volume Currency : ZUSD
+Order min : 13
+Cost min : 0.45
+Status : online
+
+PONDUSD :
+Base : POND
+Quote : ZUSD
+Current price : 5.17010
+Fee Volume Currency : ZUSD
+Order min : 600
+Cost min : 0.5
+Status : online
+
+ETH2.SETH :
+Base : ETH2.S
+Quote : XETH
+Current price : 0.00002550
+Fee Volume Currency : ZUSD
+Order min : 0.001
+Cost min : 0.0002
+Status : online
+
+ETHUSDT :
+Base : XETH
+Quote : USDT
+Current price : 0.194900
+Fee Volume Currency : ZUSD
+Order min : 0.01
+Cost min : 0.5
+Status : online
+
+JUNOEUR :
+Base : JUNO
+Quote : ZEUR
+Current price : 15.559000
+Fee Volume Currency : ZUSD
+Order min : 4
+Cost min : 0.45
+Status : online
+
+LINKJPY :
+Base : LINK
+Quote : ZJPY
+Current price : 102.67000
+Fee Volume Currency : ZUSD
+Order min : 0.8
+Cost min : 50
+Status : online
+
+ANTXBT :
+Base : ANT
+Quote : XXBT
+Current price : 5867.00000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.00002
+Status : online
+
+MINAGBP :
+Base : MINA
+Quote : ZGBP
+Current price : 1.831700
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.43
+Status : online
+
+XBTUSDC :
+Base : XXBT
+Quote : USDC
+Current price : 0.177250
+Fee Volume Currency : ZUSD
+Order min : 0.0001
+Cost min : 0.5
+Status : online
+
+GBPUSD :
+Base : ZGBP
+Quote : ZUSD
+Current price : 0.039800
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+AAVEEUR :
+Base : AAVE
+Quote : ZEUR
+Current price : 0.0079480000
+Fee Volume Currency : ZUSD
+Order min : 0.07
+Cost min : 0.45
+Status : online
+
+OXYUSD :
+Base : OXY
+Quote : ZUSD
+Current price : 0.0000000000
+Fee Volume Currency : ZUSD
+Order min : 250
+Cost min : 0.5
+Status : online
+
+SNXEUR :
+Base : SNX
+Quote : ZEUR
+Current price : 3.63000
+Fee Volume Currency : ZUSD
+Order min : 2
+Cost min : 0.45
+Status : online
+
+EURJPY :
+Base : ZEUR
+Quote : ZJPY
+Current price : 0.031320000
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 50
+Status : online
+
+KSMGBP :
+Base : KSM
+Quote : ZGBP
+Current price : 22673.60000
+Fee Volume Currency : ZUSD
+Order min : 0.2
+Cost min : 0.43
+Status : online
+
+ALGOXBT :
+Base : ALGO
+Quote : XXBT
+Current price : 0.109540000
+Fee Volume Currency : ZUSD
+Order min : 2.5
+Cost min : 0.00002
+Status : online
+
+ALICEEUR :
+Base : ALICE
+Quote : ZEUR
+Current price : 0.740100
+Fee Volume Currency : ZUSD
+Order min : 3
+Cost min : 0.45
+Status : online
+
+DAIUSD :
+Base : DAI
+Quote : ZUSD
+Current price : 0.091200
+Fee Volume Currency : ZUSD
+Order min : 5
+Cost min : 0.5
+Status : online
+
+EURGBP :
+Base : ZEUR
+Quote : ZGBP
+Current price : 0.72700
+Fee Volume Currency : ZUSD
+Order min : 0.5
+Cost min : 0.43
+Status : online
