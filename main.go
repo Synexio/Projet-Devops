@@ -46,7 +46,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	} else {
-		fmt.Println("Connecté à postgres !")
+		fmt.Println("Connecté à postgre !")
 	}
 	defer db.Close()
 
